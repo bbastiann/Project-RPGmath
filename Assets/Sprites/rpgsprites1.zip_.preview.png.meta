@@ -1,0 +1,3516 @@
+fileFormatVersion: 2
+guid: 02302143e1ebc44439a4a81fa6e39809
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: rpgsprites1.zip_.preview_0
+  - first:
+      213: 21300002
+    second: rpgsprites1.zip_.preview_1
+  - first:
+      213: 21300004
+    second: rpgsprites1.zip_.preview_2
+  - first:
+      213: 21300006
+    second: rpgsprites1.zip_.preview_3
+  - first:
+      213: 21300008
+    second: rpgsprites1.zip_.preview_4
+  - first:
+      213: 21300010
+    second: rpgsprites1.zip_.preview_5
+  - first:
+      213: 21300012
+    second: rpgsprites1.zip_.preview_6
+  - first:
+      213: 21300014
+    second: rpgsprites1.zip_.preview_7
+  - first:
+      213: 21300016
+    second: rpgsprites1.zip_.preview_8
+  - first:
+      213: 21300018
+    second: rpgsprites1.zip_.preview_9
+  - first:
+      213: 21300020
+    second: rpgsprites1.zip_.preview_10
+  - first:
+      213: 21300022
+    second: rpgsprites1.zip_.preview_11
+  - first:
+      213: 21300024
+    second: rpgsprites1.zip_.preview_12
+  - first:
+      213: 21300026
+    second: rpgsprites1.zip_.preview_13
+  - first:
+      213: 21300028
+    second: rpgsprites1.zip_.preview_14
+  - first:
+      213: 21300030
+    second: rpgsprites1.zip_.preview_15
+  - first:
+      213: 21300032
+    second: rpgsprites1.zip_.preview_16
+  - first:
+      213: 21300034
+    second: rpgsprites1.zip_.preview_17
+  - first:
+      213: 21300036
+    second: rpgsprites1.zip_.preview_18
+  - first:
+      213: 21300038
+    second: rpgsprites1.zip_.preview_19
+  - first:
+      213: 21300040
+    second: rpgsprites1.zip_.preview_20
+  - first:
+      213: 21300042
+    second: rpgsprites1.zip_.preview_21
+  - first:
+      213: 21300044
+    second: rpgsprites1.zip_.preview_22
+  - first:
+      213: 21300046
+    second: rpgsprites1.zip_.preview_23
+  - first:
+      213: 21300048
+    second: rpgsprites1.zip_.preview_24
+  - first:
+      213: 21300050
+    second: rpgsprites1.zip_.preview_25
+  - first:
+      213: 21300052
+    second: rpgsprites1.zip_.preview_26
+  - first:
+      213: 21300054
+    second: rpgsprites1.zip_.preview_27
+  - first:
+      213: 21300056
+    second: rpgsprites1.zip_.preview_28
+  - first:
+      213: 21300058
+    second: rpgsprites1.zip_.preview_29
+  - first:
+      213: 21300060
+    second: rpgsprites1.zip_.preview_30
+  - first:
+      213: 21300062
+    second: rpgsprites1.zip_.preview_31
+  - first:
+      213: 21300064
+    second: rpgsprites1.zip_.preview_32
+  - first:
+      213: 21300066
+    second: rpgsprites1.zip_.preview_33
+  - first:
+      213: 21300068
+    second: rpgsprites1.zip_.preview_34
+  - first:
+      213: 21300070
+    second: rpgsprites1.zip_.preview_35
+  - first:
+      213: 21300072
+    second: rpgsprites1.zip_.preview_36
+  - first:
+      213: 21300074
+    second: rpgsprites1.zip_.preview_37
+  - first:
+      213: 21300076
+    second: rpgsprites1.zip_.preview_38
+  - first:
+      213: 21300078
+    second: rpgsprites1.zip_.preview_39
+  - first:
+      213: 21300080
+    second: rpgsprites1.zip_.preview_40
+  - first:
+      213: 21300082
+    second: rpgsprites1.zip_.preview_41
+  - first:
+      213: 21300084
+    second: rpgsprites1.zip_.preview_42
+  - first:
+      213: 21300086
+    second: rpgsprites1.zip_.preview_43
+  - first:
+      213: 21300088
+    second: rpgsprites1.zip_.preview_44
+  - first:
+      213: 21300090
+    second: rpgsprites1.zip_.preview_45
+  - first:
+      213: 21300092
+    second: rpgsprites1.zip_.preview_46
+  - first:
+      213: 21300094
+    second: rpgsprites1.zip_.preview_47
+  - first:
+      213: 21300096
+    second: rpgsprites1.zip_.preview_48
+  - first:
+      213: 21300098
+    second: rpgsprites1.zip_.preview_49
+  - first:
+      213: 21300100
+    second: rpgsprites1.zip_.preview_50
+  - first:
+      213: 21300102
+    second: rpgsprites1.zip_.preview_51
+  - first:
+      213: 21300104
+    second: rpgsprites1.zip_.preview_52
+  - first:
+      213: 21300106
+    second: rpgsprites1.zip_.preview_53
+  - first:
+      213: 21300108
+    second: rpgsprites1.zip_.preview_54
+  - first:
+      213: 21300110
+    second: rpgsprites1.zip_.preview_55
+  - first:
+      213: 21300112
+    second: rpgsprites1.zip_.preview_56
+  - first:
+      213: 21300114
+    second: rpgsprites1.zip_.preview_57
+  - first:
+      213: 21300116
+    second: rpgsprites1.zip_.preview_58
+  - first:
+      213: 21300118
+    second: rpgsprites1.zip_.preview_59
+  - first:
+      213: 21300120
+    second: rpgsprites1.zip_.preview_60
+  - first:
+      213: 21300122
+    second: rpgsprites1.zip_.preview_61
+  - first:
+      213: 21300124
+    second: rpgsprites1.zip_.preview_62
+  - first:
+      213: 21300126
+    second: rpgsprites1.zip_.preview_63
+  - first:
+      213: 21300128
+    second: rpgsprites1.zip_.preview_64
+  - first:
+      213: 21300130
+    second: rpgsprites1.zip_.preview_65
+  - first:
+      213: 21300132
+    second: rpgsprites1.zip_.preview_66
+  - first:
+      213: 21300134
+    second: rpgsprites1.zip_.preview_67
+  - first:
+      213: 21300136
+    second: rpgsprites1.zip_.preview_68
+  - first:
+      213: 21300138
+    second: rpgsprites1.zip_.preview_69
+  - first:
+      213: 21300140
+    second: rpgsprites1.zip_.preview_70
+  - first:
+      213: 21300142
+    second: rpgsprites1.zip_.preview_71
+  - first:
+      213: 21300144
+    second: rpgsprites1.zip_.preview_72
+  - first:
+      213: 21300146
+    second: rpgsprites1.zip_.preview_73
+  - first:
+      213: 21300148
+    second: rpgsprites1.zip_.preview_74
+  - first:
+      213: 21300150
+    second: rpgsprites1.zip_.preview_75
+  - first:
+      213: 21300152
+    second: rpgsprites1.zip_.preview_76
+  - first:
+      213: 21300154
+    second: rpgsprites1.zip_.preview_77
+  - first:
+      213: 21300156
+    second: rpgsprites1.zip_.preview_78
+  - first:
+      213: 21300158
+    second: rpgsprites1.zip_.preview_79
+  - first:
+      213: 21300160
+    second: rpgsprites1.zip_.preview_80
+  - first:
+      213: 21300162
+    second: rpgsprites1.zip_.preview_81
+  - first:
+      213: 21300164
+    second: rpgsprites1.zip_.preview_82
+  - first:
+      213: 21300166
+    second: rpgsprites1.zip_.preview_83
+  - first:
+      213: 21300168
+    second: rpgsprites1.zip_.preview_84
+  - first:
+      213: 21300170
+    second: rpgsprites1.zip_.preview_85
+  - first:
+      213: 21300172
+    second: rpgsprites1.zip_.preview_86
+  - first:
+      213: 21300174
+    second: rpgsprites1.zip_.preview_87
+  - first:
+      213: 21300176
+    second: rpgsprites1.zip_.preview_88
+  - first:
+      213: 21300178
+    second: rpgsprites1.zip_.preview_89
+  - first:
+      213: 21300180
+    second: rpgsprites1.zip_.preview_90
+  - first:
+      213: 21300182
+    second: rpgsprites1.zip_.preview_91
+  - first:
+      213: 21300184
+    second: rpgsprites1.zip_.preview_92
+  - first:
+      213: 21300186
+    second: rpgsprites1.zip_.preview_93
+  - first:
+      213: 21300188
+    second: rpgsprites1.zip_.preview_94
+  - first:
+      213: 21300190
+    second: rpgsprites1.zip_.preview_95
+  - first:
+      213: 21300192
+    second: rpgsprites1.zip_.preview_96
+  - first:
+      213: 21300194
+    second: rpgsprites1.zip_.preview_97
+  - first:
+      213: 21300196
+    second: rpgsprites1.zip_.preview_98
+  - first:
+      213: 21300198
+    second: rpgsprites1.zip_.preview_99
+  - first:
+      213: 21300200
+    second: rpgsprites1.zip_.preview_100
+  - first:
+      213: 21300202
+    second: rpgsprites1.zip_.preview_101
+  - first:
+      213: 21300204
+    second: rpgsprites1.zip_.preview_102
+  - first:
+      213: 21300206
+    second: rpgsprites1.zip_.preview_103
+  - first:
+      213: 21300208
+    second: rpgsprites1.zip_.preview_104
+  - first:
+      213: 21300210
+    second: rpgsprites1.zip_.preview_105
+  - first:
+      213: 21300212
+    second: rpgsprites1.zip_.preview_106
+  - first:
+      213: 21300214
+    second: rpgsprites1.zip_.preview_107
+  - first:
+      213: 21300216
+    second: rpgsprites1.zip_.preview_108
+  - first:
+      213: 21300218
+    second: rpgsprites1.zip_.preview_109
+  - first:
+      213: 21300220
+    second: rpgsprites1.zip_.preview_110
+  - first:
+      213: 21300222
+    second: rpgsprites1.zip_.preview_111
+  - first:
+      213: 21300224
+    second: rpgsprites1.zip_.preview_112
+  - first:
+      213: 21300226
+    second: rpgsprites1.zip_.preview_113
+  - first:
+      213: 21300228
+    second: rpgsprites1.zip_.preview_114
+  - first:
+      213: 21300230
+    second: rpgsprites1.zip_.preview_115
+  - first:
+      213: 21300232
+    second: rpgsprites1.zip_.preview_116
+  - first:
+      213: 21300234
+    second: rpgsprites1.zip_.preview_117
+  - first:
+      213: 21300236
+    second: rpgsprites1.zip_.preview_118
+  - first:
+      213: 21300238
+    second: rpgsprites1.zip_.preview_119
+  - first:
+      213: 21300240
+    second: rpgsprites1.zip_.preview_120
+  - first:
+      213: 21300242
+    second: rpgsprites1.zip_.preview_121
+  - first:
+      213: 21300244
+    second: rpgsprites1.zip_.preview_122
+  - first:
+      213: 21300246
+    second: rpgsprites1.zip_.preview_123
+  - first:
+      213: 21300248
+    second: rpgsprites1.zip_.preview_124
+  - first:
+      213: 21300250
+    second: rpgsprites1.zip_.preview_125
+  - first:
+      213: 21300252
+    second: rpgsprites1.zip_.preview_126
+  - first:
+      213: 21300254
+    second: rpgsprites1.zip_.preview_127
+  - first:
+      213: 21300256
+    second: rpgsprites1.zip_.preview_128
+  - first:
+      213: 21300258
+    second: rpgsprites1.zip_.preview_129
+  - first:
+      213: 21300260
+    second: rpgsprites1.zip_.preview_130
+  - first:
+      213: 21300262
+    second: rpgsprites1.zip_.preview_131
+  - first:
+      213: 21300264
+    second: rpgsprites1.zip_.preview_132
+  - first:
+      213: 21300266
+    second: rpgsprites1.zip_.preview_133
+  - first:
+      213: 21300268
+    second: rpgsprites1.zip_.preview_134
+  - first:
+      213: 21300270
+    second: rpgsprites1.zip_.preview_135
+  - first:
+      213: 21300272
+    second: rpgsprites1.zip_.preview_136
+  - first:
+      213: 21300274
+    second: rpgsprites1.zip_.preview_137
+  - first:
+      213: 21300276
+    second: rpgsprites1.zip_.preview_138
+  - first:
+      213: 21300278
+    second: rpgsprites1.zip_.preview_139
+  - first:
+      213: 21300280
+    second: rpgsprites1.zip_.preview_140
+  - first:
+      213: 21300282
+    second: rpgsprites1.zip_.preview_141
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 414
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f74dcad23578148b43c8f3a51a3e59
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 416
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811f05bb10b1b72428307d73ec0a47ab
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 414
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8233ff194173b24bbeabe6f4c552723
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 414
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be157c2669f85f645b264ef1639eb685
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 416
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747d0a3b850606242956b98f9f8c13ff
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 414
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d7a761475c8bb48a903f719dd4ff5a
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 414
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dfccc5ce86e574c9b889862e6653f9
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 416
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf178abc1ebac314d94e9d7f0f2d9935
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 414
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dffe54138a094d43bcef0f3d1463850
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_9
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 414
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb73cd5378169964c84ba9f52a7e94d4
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 416
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1bd32bf729ad94685ca8fb2ee3c938
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 414
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277a95afc67a00444817968a49b1f766
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 378
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98233cd9844b25846b5e30a04f280d63
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 380
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb7ee3f409f8c34fb85dc9125f1e833
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 378
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbc94e594a05c94eb1228358728467d
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_15
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 378
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6ec6388e23bf140bc2209dfb051e2d
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 380
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faffbec293fa87f4ea0ab15a1fefb9f9
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_17
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 378
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406cf9af795c3de40a6916c737a50ed4
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 378
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00ea398a424da44693c6ab8b8512ca3
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 380
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05233b4568aa7294aab6131ec7ef5d56
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_20
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 378
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5280725856d23624b98d69c2b9364f1b
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_21
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 342
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8551aa2dd74e5148baa00a8caca379e
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_22
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 380
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766077b0c5dd13e40bc9393f46d2b327
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_23
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 342
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fb82e4283ed0746b016ac5c97d1b12
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 342
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee7b0bad55c0ba4db054902e6fb4333
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 344
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f0fa8d36074be4abf593272eb5e30e
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 342
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2169be12cd5b064a8050a10f0e2c6cb
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 342
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e0f41d0c24baf489a9d96eb8b5cc1c
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_28
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 344
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912b254ea8537514d9b08c793659af5c
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_29
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 342
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5194ae73c8121c144820c3e2d968d289
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_30
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 342
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d919de2feea3534593138bcee0474f9
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_31
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 344
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c769a11e32369e34ba02815b771c58c6
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 342
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cdf96f4150efb4f95a8578ad2eb9f5
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_33
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 344
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183faf3bf914aea4caf58b2571b849ae
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_34
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 306
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c976ab029fae847810cd9aaf5e4bc5
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_35
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 308
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0d8bdec1112d54d9b1c5b195c5fde8
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_36
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 306
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5a218d49c08f949b3bf764fe8ea953
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 306
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8792d6b818559304390a5643d4e577fa
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 308
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ef8b1c36a96b2498e9740f9c06c286
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_39
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 306
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac5dc46c51b63e4e8ba905b45cf0ecc
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_40
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 306
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974ceab081ed96145a1cb0ea435197e0
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_41
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 308
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d7f56b7f9251544905a295992c8b04
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_42
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 306
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7824e0ad065c00548a180fb709da0a50
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_43
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 306
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16507a2dda2d0ac4fa7b2327c97cba2e
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_44
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 308
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00026ade544bff146afa854a8e125065
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_45
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 306
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d78b43ff85b8294a8e94912fdbd45cc
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_46
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 258
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128c70705b51ea04e83a62cab9ed4a0d
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_47
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 260
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914460107fd30f94ca57f4284dacd7c7
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_48
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 258
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a5f157670b0b5459d0b5d5756bf914
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_49
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 258
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e411770c0681224b90536e74c236eb5
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_50
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 260
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd15444e89201d48a480409689a361c
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_51
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 258
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f832fed5a671e45af854a2427662b8
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_52
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 261
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb69b3ab4722794f85676571cef32aa
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_53
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 263
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a40a42b28a3974d8086ae4d90c1246
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_54
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 261
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102cff4c4b96ca440b09036186d4a4c8
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_55
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 261
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abf7d9593bd8a0438e1aafc6694f527
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_56
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 263
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6ac7509ca0c1342a7c09f47a165c7c
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_57
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 261
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d086092afca68fe48bd5974e68708526
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_58
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 222
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48e096016a81c44389e45b27acc4864
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_59
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 224
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041984927f521554b8a9cbad9aca7531
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_60
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 222
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357604d8d012ae84aae2d89e0b13def9
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_61
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 222
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f301d865de4d6a5419dbf5b445ba0ff3
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_62
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 224
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace19657e8fab2947b38a2ecb6877bd6
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_63
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 222
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f7413fcca385f48aa3db299c207efd
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_64
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 225
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9efce8d12a185e4482a531b5d4c40c1
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_65
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 227
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d7db90bf8f4634e8e6aab7d0da0c25
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_66
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 225
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48808a26f983dbe44993b5313cc49d38
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_67
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 225
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f149e5cfe941b488ebd4b1f373d567
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_68
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 227
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebf6bf6278f6c54a8ed0eecd9890b27
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_69
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 225
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef5f9e3a9165ba46b7d0cd430f514e7
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 186
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e797b08ccf3e4a340a0ce91540579e5f
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_71
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 188
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56d66352957b4b4386c23076cac1b67
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_72
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 186
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a2d128fc036c447b55e6283726632d
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_73
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 186
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dc289e053234f44b9c1cc6a8b993ba
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_74
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 188
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e40f8f794732de4a927ed0546038b36
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_75
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 186
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c401ed71cfe7b042a033fc1847b351f
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_76
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 189
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498807a7aa85b9942b33854f4fd24705
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_77
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 191
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d88c8c77927c614087ad1b281f8d41d
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_78
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 189
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec751556973b9245aaa276faba1e16f
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_79
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 189
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da734baee14be844c82259e8bc6bd0eb
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_80
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 191
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03bea892ba3f234496da3e6bb1f0e37
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_81
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 189
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01720d4c3562f244a61b6954ed4747d
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_82
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 150
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ae877b57b435e4ea1b2062fd638c06
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_83
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 152
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326a627373b6da942a343d9afeff8bad
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_84
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 150
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa9e0a0b17881740b28a4142301d705
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_85
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 150
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5d208c8b03aea4cb1359f88acdcf65
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_86
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 152
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9a056c851025b4197482fe09466c3e
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_87
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 150
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1e644837f9a6145bf4c1c973533658
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_88
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 153
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4b1784fbbe2284894b4a1dd187d606
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_89
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 155
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65153b5c57583e408529b473ecf2168
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_90
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 153
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8d686385247ad4f9fec4fbaf891cc6
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_91
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 153
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d33c06e9f18634186399d0200b38aa
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_92
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 155
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1005081c17583341a56f371523878c3
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_93
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 153
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b5a02f0ee7de842b6aee341132fb10
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_94
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 108
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cce0e752c52724395d38a47727db0b
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_95
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 110
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96580d416f423c4ebfb3651931d5c1d
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_96
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 108
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f280e5d40fa3fa74ebfe8bd070098fa1
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_97
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 108
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b072c4cefd1347149b289bcc68a896c4
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_98
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 110
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28035e0ce4bf2a4194319243d10af2d
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_99
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 108
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ca10c10a3bbab4daf56da20087870b
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_100
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 108
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f7e539f8a7d1e43aa9e828a8c7ad84
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_101
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 110
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9b9a8cbac1d1f4eb66bbe512cd12cf
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_102
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 108
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ee20e0ddd5a34448d37c1f7d3fbed4
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_103
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 108
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20526e5a645cf49449ff95a31e4dee53
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_104
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 110
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48008d52c19e4b6418de6959e70821ee
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_105
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 108
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e077b497d68159748959ae9a32b13f3b
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_106
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 72
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cea72ed294858428745eb9500a5eaa
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_107
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 74
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebc178e977657248b092678b8efde56
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_108
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 72
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ff3e29e5a3f3846aa08afb3079de6c
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_109
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 72
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518d8ef8d3c108946aac5070e564babd
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_110
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 74
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bef1df41ae63947a4eb9835cdd9cb1
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_111
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 72
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63ccdf005c9abd4c9133a0a229f6344
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_112
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 72
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44844f99492d3c84282a425a25d25cd0
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_113
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 74
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67bc2d31fe609b4eae6160eb5a219fa
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_114
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 72
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4331e9ab128e4a49a0c67722eaf9fb8
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_115
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 72
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5096586c8dd2c0148b227a8d0c3ed99b
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_116
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 74
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5df70fd5e20a74f8b0c7d56ac2e3cc
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_117
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 72
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8bb7a429d6f194abc7c2e1f1fb7e13
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_118
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 36
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754d1fedabd09024fa3e4e66235c66a2
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_119
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 38
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad034fe79b4e1a94ea10cb41cbc7f029
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_120
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 36
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9420121ee7a2d654da7f7d1a7d762be0
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_121
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 36
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527e21bbbf0d8ca468a6ea262da9b5e8
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_122
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 38
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858b2c9e085c7954e91bd2ad4818eb35
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_123
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 36
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6fd2dbe0bdc454bb2ce6c1a3b7d0ee
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_124
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 36
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66335d3d262c27548991b1eea360e2ae
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_125
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 38
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf287104d32c0d41a4cf8163f717c3e
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_126
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 36
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7828e0c7655f7784fb9c4c6b0814d476
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_127
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 36
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc370df830579d141a123b809c8f423f
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_128
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 38
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91f7a6671ab2c54da3d30f86501d464
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_129
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 36
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf1a4fb5126cd248b4d329f87d331f7
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_130
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829416bf7f2ccac4db4e4d615ba60ad7
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_131
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b739731edbc84f4ba7ecf8f2c03c74f
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_132
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddf6f8c928d02a47860c0581f173867
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_133
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1945546d78fc96042901ceb05f35cb21
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_134
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65872cc4977ff7547835e80dea026aac
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_135
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc563dece82aa45498fe3391c0f0ab36
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_136
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8182a205fcc1ecc4eb6c82ea725e7b55
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_137
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a877ee0df9d08e47a25ececf78ae1d4
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_138
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8c7a845731f1642a5faab756ee1d39
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_139
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16b735f98d61074586db8adbefcc89a
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_140
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1838b5f59b11e164aa7649ff92e9c8d8
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgsprites1.zip_.preview_141
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f1813263877204abd72531680bfad7
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bc3fcd19a4724f748bd85a31cfeea3dd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
